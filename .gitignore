@@ -13,6 +13,8 @@ bin/
 gen/
 
 # Gradle files
+app/.idea/misc.xml
+app/.idea/workspace.xml
 .gradle/
 build/
 app/app.iml
